@@ -35,6 +35,9 @@ class BankAccount {
         acc1.displayAccountDetails();
         acc2.displayAccountDetails();
 
+
         System.out.println("Total Bank Accounts: " + BankAccount.getTotalAccounts());
+
     }
 }
+
